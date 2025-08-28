@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@300;400;500;600;700&display=swap');
+
+.hind-madurai-font {
+  font-family: "Hind Madurai", sans-serif;
+  font-style: normal;
+}
+
+.nav-icon{
+    height: 30px;
+    width: 30px;
+}
+
+.nav-items{
+    width: 100px;
+    height: 45px;
+    background-color: #41ff6b1a;
+    border-radius: 50px;
+    display: flex;
+    gap: 4px;
+    justify-content: center;
+
+    padding: 10px;
+    
+}
+.hero-section{
+    background-image: linear-gradient(to right, #013223,#006747,#013223);
+    justify-items: center;
+    padding: 20px 60px;
+    
+    
+}
+.card{
+    width: 270px;
+    height: 240px;
+    border-radius: 12px;
+    box-shadow: 0px 2px 3px 1px #00000026 ;
+    padding: 20px;
+    
+}
+.card-heading{
+    font-size: 16px;
+    font-weight: bold;
+}
+.service-number{
+    font-size: 25px;
+    font-weight: bold;
+}
+.full-card{
+    width: 270px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0px 2px 3px 1px #00000026 ;
+    padding: 20px;
+   
+}
+.service-img{
+    width: 60px;
+    height: 60px;
+    padding: 15px;
+    background-color: #ffe3e2;
+    border-radius: 16px;
+    
+}
