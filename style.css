@@ -6,25 +6,17 @@
 }
 
 .nav-icon{
-    height: 30px;
-    width: 30px;
+    
 }
 
 .nav-items{
-    width: 100px;
-    height: 45px;
-    background-color: #41ff6b1a;
-    border-radius: 50px;
-    display: flex;
-    gap: 4px;
-    justify-content: center;
-
-    padding: 10px;
+   
+    
     
 }
 .hero-section{
     background-image: linear-gradient(to right, #013223,#006747,#013223);
-    justify-items: center;
+    
     padding: 20px 60px;
     
     
